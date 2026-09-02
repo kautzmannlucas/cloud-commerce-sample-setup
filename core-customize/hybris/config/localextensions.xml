@@ -148,10 +148,6 @@
     <extension name='b2bordermanagementwebservices' />
     <extension name='ordermanagementfacades' />
     <extension name='ordermanagementwebservices' />
-    <extension name='warehousing' />
-    <extension name='warehousingbackoffice' />
-    <extension name='warehousingfacades' />
-    <extension name='warehousingwebservices' />
     <extension name='yacceleratorordermanagement' />
     <extension name='personalizationcms' />
     <extension name='personalizationcmsbackoffice' />
