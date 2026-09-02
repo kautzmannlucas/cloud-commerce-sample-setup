@@ -3,11 +3,7 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice",
-        "warehousing",
-        "warehousingfacades",
-        "warehousingwebservices",
-        "warehousingbackoffice"
+        "mediaconversionbackoffice"
     ],
     "storefrontAddons": [
         {
