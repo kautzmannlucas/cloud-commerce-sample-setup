@@ -346,10 +346,6 @@
                     "contextPath": "/medias"
                 },
                 {
-                    "name": "hac",
-                    "contextPath": "/hac"
-                },
-                {
                     "name": "acceleratorservices",
                     "contextPath": "/acceleratorservices"
                 },
